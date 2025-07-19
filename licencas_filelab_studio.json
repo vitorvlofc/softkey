@@ -1,0 +1,37 @@
+{
+  "CHAVE-1MIN-001": {
+    "pagamento": true,
+    "usado": false,
+    "nome": "Vitor - Admin",
+    "validade": "1 minutos",
+    "data_ativacao": null
+  },
+  "CHAVE-1HORA-002": {
+    "pagamento": true,
+    "usado": false,
+    "nome": "Vitor - Admin",
+    "validade": "1 hora",
+    "data_ativacao": null
+  },
+  "CHAVE-1DIA-003": {
+    "pagamento": true,
+    "usado": false,
+    "nome": "Vitor - Admin",
+    "validade": "1 dia",
+    "data_ativacao": null
+  },
+  "CHAVE-1MES-004": {
+    "pagamento": true,
+    "usado": false,
+    "nome": "Vitor - Admin",
+    "validade": "1 mês",
+    "data_ativacao": null
+  },
+  "CHAVE-1ANO-005": {
+    "pagamento": true,
+    "usado": false,
+    "nome": "Vitor - Admin",
+    "validade": "1 ano",
+    "data_ativacao": null
+  }
+}
