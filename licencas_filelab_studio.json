@@ -8,7 +8,7 @@
   },
   "CHAVE-1HORA-002": {
     "pagamento": true,
-    "usado": false,
+    "usado": true,
     "nome": "Vitor - Admin",
     "validade": "1 hora",
     "data_ativacao": null
