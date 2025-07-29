@@ -7,7 +7,7 @@
     "data_ativacao": null
   },
   "CHAVE-1HORA-002": {
-    "pagamento": false,
+    "pagamento": true,
     "usado": false,
     "nome": "Vitor - Admin",
     "validade": "1 hora",
@@ -15,7 +15,7 @@
   },
   "CHAVE-1DIA-003": {
     "pagamento": true,
-    "usado": false,
+    "usado": true,
     "nome": "Vitor - Admin",
     "validade": "1 dia",
     "data_ativacao": null
