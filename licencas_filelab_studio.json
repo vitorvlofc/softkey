@@ -15,7 +15,7 @@
   },
   "CHAVE-1DIA-003": {
     "pagamento": true,
-    "usado": true,
+    "usado": false,
     "nome": "Vitor - Admin",
     "validade": "1 dia",
     "data_ativacao": null
