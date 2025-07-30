@@ -31,7 +31,7 @@
     "pagamento": true,
     "usado": false,
     "nome": "Vitor - Admin",
-    "validade": "1 ano",
+    "validade": "500 anos",
     "data_ativacao": null
   }
 }
