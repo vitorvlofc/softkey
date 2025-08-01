@@ -27,11 +27,11 @@
     "validade": "1 mês",
     "data_ativacao": null
   },
-  "CHAVE-500ANOS-005": {
+  "CHAVE-1ANO-005": {
     "pagamento": true,
     "usado": false,
     "nome": "Vitor - Admin",
-    "validade": "500 anos",
+    "validade": "1 ano",
     "data_ativacao": null
   }
 }
